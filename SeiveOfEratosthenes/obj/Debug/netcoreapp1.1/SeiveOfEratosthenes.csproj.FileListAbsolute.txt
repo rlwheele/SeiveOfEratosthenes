@@ -1,0 +1,9 @@
+c:\users\randy\documents\visual studio 2017\Projects\SeiveOfEratosthenes\SeiveOfEratosthenes\bin\Debug\netcoreapp1.1\SeiveOfEratosthenes.deps.json
+c:\users\randy\documents\visual studio 2017\Projects\SeiveOfEratosthenes\SeiveOfEratosthenes\bin\Debug\netcoreapp1.1\SeiveOfEratosthenes.runtimeconfig.json
+c:\users\randy\documents\visual studio 2017\Projects\SeiveOfEratosthenes\SeiveOfEratosthenes\bin\Debug\netcoreapp1.1\SeiveOfEratosthenes.runtimeconfig.dev.json
+c:\users\randy\documents\visual studio 2017\Projects\SeiveOfEratosthenes\SeiveOfEratosthenes\bin\Debug\netcoreapp1.1\SeiveOfEratosthenes.dll
+c:\users\randy\documents\visual studio 2017\Projects\SeiveOfEratosthenes\SeiveOfEratosthenes\bin\Debug\netcoreapp1.1\SeiveOfEratosthenes.pdb
+c:\users\randy\documents\visual studio 2017\Projects\SeiveOfEratosthenes\SeiveOfEratosthenes\obj\Debug\netcoreapp1.1\SeiveOfEratosthenes.csprojResolveAssemblyReference.cache
+c:\users\randy\documents\visual studio 2017\Projects\SeiveOfEratosthenes\SeiveOfEratosthenes\obj\Debug\netcoreapp1.1\SeiveOfEratosthenes.AssemblyInfo.cs
+c:\users\randy\documents\visual studio 2017\Projects\SeiveOfEratosthenes\SeiveOfEratosthenes\obj\Debug\netcoreapp1.1\SeiveOfEratosthenes.dll
+c:\users\randy\documents\visual studio 2017\Projects\SeiveOfEratosthenes\SeiveOfEratosthenes\obj\Debug\netcoreapp1.1\SeiveOfEratosthenes.pdb
